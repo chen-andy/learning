@@ -16,7 +16,7 @@
     </section>
 
     <asp:Calendar ID="Calendar1" runat="server">
-         <TodayDayStyle BackColor="Yellow" ForeColor="Red" Font-Bold="true" />
+         <TodayDayStyle BackColor="Yellow" ForeColor="Purple" Font-Italic="true" />
     </asp:Calendar>
     <asp:Label ID="Label1" runat="server" Text="Label" Font-Size="32pt"></asp:Label>
 </asp:Content>
